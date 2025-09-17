@@ -1,4 +1,4 @@
-package br.ufpb.dcx.eurekaServer;
+package br.ufpb.dcx.eurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
